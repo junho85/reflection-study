@@ -1,0 +1,5 @@
+= reflection-study
+
+== References
+* https://www.youtube.com/watch?v=vNTck21AVDw[생코PC방16 리플렉션소개 2014.12.30]
+* https://www.youtube.com/watch?v=frV2fagTZNI[JAVA Reflection을 사용해볼까? json으로 암호화값을 원복하는 예제를 보면서 2021.02.01]

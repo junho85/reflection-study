@@ -11,4 +11,12 @@ public class RefObject {
     public void setNumId(int numId) {
         this.numId = numId;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }
